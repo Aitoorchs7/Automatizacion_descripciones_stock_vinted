@@ -1,0 +1,10 @@
+# Excluir archivo de variables de entorno
+.env
+
+# Si su JSON contiene secretos (ej: firebase-adminsdk.json)
+automatizador-descripciones-st-bc5fb2764a4d.json
+
+# Excluir dependencias y archivos temporales
+node_modules/
+__pycache__/
+.vscode/
